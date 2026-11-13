@@ -1,0 +1,6 @@
+pydicom
+numpy
+pillow
+ttkbootstrap
+imageio
+imageio-ffmpeg
